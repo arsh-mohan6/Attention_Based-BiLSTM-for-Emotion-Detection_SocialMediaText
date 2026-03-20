@@ -1,5 +1,7 @@
 # Emotion Classification using BiLSTM and Attention
-
+<p align="center">
+  <img src="results/emotion_graph.png" width="600">
+</p>
 ##  Project Title
 **Emotion Classification in Social Media Text using BiLSTM and Attention Mechanisms: A Study on Contextual and Negation-based Emotional Expressions**
 
